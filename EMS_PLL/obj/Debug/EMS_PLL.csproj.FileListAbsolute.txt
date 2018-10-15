@@ -1,0 +1,16 @@
+C:\Users\user\Documents\Visual Studio 2015\Projects\EmployeeManagementSystem\EMS_PLL\bin\Debug\EMS_PLL.exe.config
+C:\Users\user\Documents\Visual Studio 2015\Projects\EmployeeManagementSystem\EMS_PLL\bin\Debug\EMS_PLL.exe
+C:\Users\user\Documents\Visual Studio 2015\Projects\EmployeeManagementSystem\EMS_PLL\bin\Debug\EMS_PLL.pdb
+C:\Users\user\Documents\Visual Studio 2015\Projects\EmployeeManagementSystem\EMS_PLL\obj\Debug\EMS_PLL.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2015\Projects\EmployeeManagementSystem\EMS_PLL\obj\Debug\MainWindow.g.cs
+C:\Users\user\Documents\Visual Studio 2015\Projects\EmployeeManagementSystem\EMS_PLL\obj\Debug\SearchAndUpdate.g.cs
+C:\Users\user\Documents\Visual Studio 2015\Projects\EmployeeManagementSystem\EMS_PLL\obj\Debug\App.g.cs
+C:\Users\user\Documents\Visual Studio 2015\Projects\EmployeeManagementSystem\EMS_PLL\obj\Debug\EMS_PLL_MarkupCompile.cache
+C:\Users\user\Documents\Visual Studio 2015\Projects\EmployeeManagementSystem\EMS_PLL\obj\Debug\EMS_PLL_MarkupCompile.lref
+C:\Users\user\Documents\Visual Studio 2015\Projects\EmployeeManagementSystem\EMS_PLL\obj\Debug\MainWindow.baml
+C:\Users\user\Documents\Visual Studio 2015\Projects\EmployeeManagementSystem\EMS_PLL\obj\Debug\SearchAndUpdate.baml
+C:\Users\user\Documents\Visual Studio 2015\Projects\EmployeeManagementSystem\EMS_PLL\obj\Debug\EMS_PLL.g.resources
+C:\Users\user\Documents\Visual Studio 2015\Projects\EmployeeManagementSystem\EMS_PLL\obj\Debug\EMS_PLL.Properties.Resources.resources
+C:\Users\user\Documents\Visual Studio 2015\Projects\EmployeeManagementSystem\EMS_PLL\obj\Debug\EMS_PLL.csproj.GenerateResource.Cache
+C:\Users\user\Documents\Visual Studio 2015\Projects\EmployeeManagementSystem\EMS_PLL\obj\Debug\EMS_PLL.exe
+C:\Users\user\Documents\Visual Studio 2015\Projects\EmployeeManagementSystem\EMS_PLL\obj\Debug\EMS_PLL.pdb

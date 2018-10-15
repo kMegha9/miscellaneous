@@ -1,0 +1,9 @@
+C:\Users\user\Documents\Visual Studio 2015\Projects\EmployeeManagementSystem\EMS_DAL\bin\Debug\EMS_DAL.dll
+C:\Users\user\Documents\Visual Studio 2015\Projects\EmployeeManagementSystem\EMS_DAL\bin\Debug\EMS_DAL.pdb
+C:\Users\user\Documents\Visual Studio 2015\Projects\EmployeeManagementSystem\EMS_DAL\bin\Debug\EMS_Entity.dll
+C:\Users\user\Documents\Visual Studio 2015\Projects\EmployeeManagementSystem\EMS_DAL\bin\Debug\EMS_Exception.dll
+C:\Users\user\Documents\Visual Studio 2015\Projects\EmployeeManagementSystem\EMS_DAL\bin\Debug\EMS_Entity.pdb
+C:\Users\user\Documents\Visual Studio 2015\Projects\EmployeeManagementSystem\EMS_DAL\bin\Debug\EMS_Exception.pdb
+C:\Users\user\Documents\Visual Studio 2015\Projects\EmployeeManagementSystem\EMS_DAL\obj\Debug\EMS_DAL.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2015\Projects\EmployeeManagementSystem\EMS_DAL\obj\Debug\EMS_DAL.dll
+C:\Users\user\Documents\Visual Studio 2015\Projects\EmployeeManagementSystem\EMS_DAL\obj\Debug\EMS_DAL.pdb

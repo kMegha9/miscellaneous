@@ -1,0 +1,5 @@
+C:\Users\user\Documents\Visual Studio 2015\Projects\EmployeeManagementSystem\EMS_Entity\bin\Debug\EMS_Entity.dll
+C:\Users\user\Documents\Visual Studio 2015\Projects\EmployeeManagementSystem\EMS_Entity\bin\Debug\EMS_Entity.pdb
+C:\Users\user\Documents\Visual Studio 2015\Projects\EmployeeManagementSystem\EMS_Entity\obj\Debug\EMS_Entity.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2015\Projects\EmployeeManagementSystem\EMS_Entity\obj\Debug\EMS_Entity.dll
+C:\Users\user\Documents\Visual Studio 2015\Projects\EmployeeManagementSystem\EMS_Entity\obj\Debug\EMS_Entity.pdb

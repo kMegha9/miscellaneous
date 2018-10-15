@@ -1,0 +1,4 @@
+C:\Users\user\Documents\Visual Studio 2015\Projects\EmployeeManagementSystem\EMS_BLL\bin\Debug\EMS_BLL.dll
+C:\Users\user\Documents\Visual Studio 2015\Projects\EmployeeManagementSystem\EMS_BLL\bin\Debug\EMS_BLL.pdb
+C:\Users\user\Documents\Visual Studio 2015\Projects\EmployeeManagementSystem\EMS_BLL\obj\Debug\EMS_BLL.dll
+C:\Users\user\Documents\Visual Studio 2015\Projects\EmployeeManagementSystem\EMS_BLL\obj\Debug\EMS_BLL.pdb

@@ -1,0 +1,5 @@
+C:\Users\user\Documents\Visual Studio 2015\Projects\EmployeeManagementSystem\EMS_Exception\bin\Debug\EMS_Exception.dll
+C:\Users\user\Documents\Visual Studio 2015\Projects\EmployeeManagementSystem\EMS_Exception\bin\Debug\EMS_Exception.pdb
+C:\Users\user\Documents\Visual Studio 2015\Projects\EmployeeManagementSystem\EMS_Exception\obj\Debug\EMS_Exception.dll
+C:\Users\user\Documents\Visual Studio 2015\Projects\EmployeeManagementSystem\EMS_Exception\obj\Debug\EMS_Exception.pdb
+C:\Users\user\Documents\Visual Studio 2015\Projects\EmployeeManagementSystem\EMS_Exception\obj\Debug\EMS_Exception.csprojResolveAssemblyReference.cache

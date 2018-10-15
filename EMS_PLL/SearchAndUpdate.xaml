@@ -1,0 +1,26 @@
+﻿<Window x:Class="EMS_PLL.SearchAndUpdate"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:EMS_PLL"
+        mc:Ignorable="d"
+        Title="SearchAndUpdate" Height="500" Width="500" Loaded="Window_Loaded">
+    <Grid>
+        <Label x:Name="lbl_EmpID" Content="EmployeeID" HorizontalAlignment="Left" Margin="18,22,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="lbl_eName" Content="EmployeeName" HorizontalAlignment="Left" Margin="18,57,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.069,0.272"/>
+        <Label x:Name="lbl_eLoc" Content="EmployeeLoc" HorizontalAlignment="Left" Margin="18,88,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="lbl_ePh" Content="EmployeeContact" HorizontalAlignment="Left" Margin="10,122,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="lbl_Dept" Content="EmployeeDept" HorizontalAlignment="Left" Margin="10,157,0,0" VerticalAlignment="Top" RenderTransformOrigin="-0.029,0.466"/>
+        <TextBox x:Name="textBox" HorizontalAlignment="Left" Height="23" Margin="125,22,0,0" TextWrapping="Wrap"  VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="textBox1" HorizontalAlignment="Left" Height="23" Margin="125,57,0,0" TextWrapping="Wrap"  VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="textBox2" HorizontalAlignment="Left" Height="23" Margin="125,88,0,0" TextWrapping="Wrap"  VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="textBox3" HorizontalAlignment="Left" Height="23" Margin="125,125,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="textBox4" HorizontalAlignment="Left" Height="23" Margin="125,160,0,0" TextWrapping="Wrap"  VerticalAlignment="Top" Width="120"/>
+        <Button x:Name="btn_add" Content="Add Employee" HorizontalAlignment="Left" Margin="312,45,0,0" VerticalAlignment="Top" Width="170"/>
+        <DataGrid x:Name="dataGrid" HorizontalAlignment="Left" Margin="85,199,0,0" VerticalAlignment="Top" Height="261" Width="310"/>
+        <Button x:Name="btn_reset" Content="Reset" HorizontalAlignment="Left" Margin="312,88,0,0" VerticalAlignment="Top" Width="170"/>
+        <Button x:Name="btn_display" Content="Display" HorizontalAlignment="Left" Margin="312,122,0,0" VerticalAlignment="Top" Width="170" Click="button1_Click"/>
+
+    </Grid>
+</Window>
