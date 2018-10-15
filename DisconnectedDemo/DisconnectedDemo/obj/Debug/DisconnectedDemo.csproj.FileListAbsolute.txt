@@ -1,0 +1,14 @@
+D:\WPF Application\DisconnectedDemo\DisconnectedDemo\bin\Debug\DisconnectedDemo.exe.config
+D:\WPF Application\DisconnectedDemo\DisconnectedDemo\obj\Debug\DisconnectedDemo.csprojResolveAssemblyReference.cache
+D:\WPF Application\DisconnectedDemo\DisconnectedDemo\obj\Debug\MainWindow.g.cs
+D:\WPF Application\DisconnectedDemo\DisconnectedDemo\obj\Debug\App.g.cs
+D:\WPF Application\DisconnectedDemo\DisconnectedDemo\obj\Debug\DisconnectedDemo_MarkupCompile.cache
+D:\WPF Application\DisconnectedDemo\DisconnectedDemo\obj\Debug\DisconnectedDemo_MarkupCompile.lref
+D:\WPF Application\DisconnectedDemo\DisconnectedDemo\bin\Debug\DisconnectedDemo.exe
+D:\WPF Application\DisconnectedDemo\DisconnectedDemo\bin\Debug\DisconnectedDemo.pdb
+D:\WPF Application\DisconnectedDemo\DisconnectedDemo\obj\Debug\MainWindow.baml
+D:\WPF Application\DisconnectedDemo\DisconnectedDemo\obj\Debug\DisconnectedDemo.g.resources
+D:\WPF Application\DisconnectedDemo\DisconnectedDemo\obj\Debug\DisconnectedDemo.Properties.Resources.resources
+D:\WPF Application\DisconnectedDemo\DisconnectedDemo\obj\Debug\DisconnectedDemo.csproj.GenerateResource.Cache
+D:\WPF Application\DisconnectedDemo\DisconnectedDemo\obj\Debug\DisconnectedDemo.exe
+D:\WPF Application\DisconnectedDemo\DisconnectedDemo\obj\Debug\DisconnectedDemo.pdb
